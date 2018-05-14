@@ -1,0 +1,3 @@
+This Project will be on MVC "Model veiw controller"
+This is basically a registration page where i am going to 
+handle the user defined exception by using servlets.
